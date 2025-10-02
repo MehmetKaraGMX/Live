@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Polskie TV" tvg-logo="https://www.polskie.tv/icon/favicon-32x32.png",Polskie TV
+https://raw.githubusercontent.com/MehmetKaraGMX/Live/refs/heads/main/Polish.m3u
+#EXTINF:-1 tvg-name="MacKeyfi" tvg-logo="https://www.mackeyfi199.sbs/logo.png",MacKeyfi
+https://raw.githubusercontent.com/MehmetKaraGMX/Live/refs/heads/main/MacKeyfi.m3u
